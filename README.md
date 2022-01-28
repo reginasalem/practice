@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <title>
-
-  <body>
-    <h1>
+<head>
+  <title>Magic Kingdom</title>
+</head>
+<body>
+  <h1>History</h1>
+    <p>
+    Magic Kingdom is a theme park at the Walt Disney World Resort in Bay Lake, Florida, near Orlando, Florida. Owned and operated by The Walt Disney Company through its Parks, Experiences and Products division, the park opened on October 1, 1971, as the first of four theme parks at the resort.The park was initialized by Walt Disney and designed by WED Enterprises. Its layout and attractions are based on Disneyland Park in Anaheim, California, and are dedicated to fairy tales and Disney characters. The park is represented by Cinderella Castle, inspired by the fairy tale castle seen in the 1950 film. In 2019, the park hosted 20.9 million visitors, making it the most visited theme park in the world for the thirteenth consecutive year and the most visited theme park in North America for at least the past nineteen years.
+    </p>
