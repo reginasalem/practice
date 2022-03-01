@@ -1,9 +1,9 @@
 /* (General) Type Selectors */
-/* STEP 3A */ {
+body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
-/* STEP 12 */ {
+#introduction {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
@@ -15,11 +15,11 @@
   line-height: 1.5;
 }
 
-/* STEP 10A */ {
+ul > li {
   list-style-type: square;
 }
 
-/* STEP 11A*/ {
+abbr [title] {
   text-decoration-color: rgb(69,105,159); /* blue */
   text-decoration-style: wavy;
 }
@@ -46,7 +46,7 @@
   font-style: italic;
 }
 
-/* STEP 6A */ {
+footer a {
   color: #000;
 }
 
@@ -61,7 +61,7 @@
   background-color: rgb(231,209,75); /* yellow */
 }
 
-/* STEP 8 */ {
+#geography aside {
   border: 1px dashed rgb(69,105,159);
   padding-left: 16px;
 }
@@ -70,7 +70,7 @@
 
 /* class Selectors */
 
-/* STEP 5A */ {
+.first {
   font-weight: bold;
 }
 
