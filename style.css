@@ -36,7 +36,7 @@ abbr [title] {
   color: rgb(69,105,159); /* blue */
 }
 
-# {
+section {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgba(231,209,75,0.15); /* lt yellow */
@@ -57,7 +57,7 @@ footer a {
   border: 1px dashed rgb(69,105,159); /* blue */
 }
 
-footer a {
+footer > #top{
   background-color: rgb(231,209,75); /* yellow */
 }
 
