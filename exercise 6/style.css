@@ -4,7 +4,7 @@ body {
 }
 
 #introduction {
-  background-color: rgba(231,209,75,0.5); /* lt yellow */
+  background-color: yellow(231,209,75,0.5); /* lt yellow */
 }
 
 /* STEP 7B */ {
