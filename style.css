@@ -3,7 +3,7 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
-#introduction {
+/* Step 12 */ {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
@@ -36,7 +36,7 @@ abbr [title] {
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 3B */ {
+# {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgba(231,209,75,0.15); /* lt yellow */
@@ -52,12 +52,12 @@ footer a {
 
 
 /* id Selectors */
-/* STEP 4A */ {
+#introduction {
   background-color: rgba(69,105,159,0.15); /* lt blue */
   border: 1px dashed rgb(69,105,159); /* blue */
 }
 
-/* STEP 4B */ {
+footer a {
   background-color: rgb(231,209,75); /* yellow */
 }
 
