@@ -7,7 +7,8 @@ body {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
- {
+h2,
+h3 {
   color: rgb(69,105,159); /* blue */
 }
 
