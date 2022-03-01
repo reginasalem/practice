@@ -7,11 +7,12 @@ body {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
-/* STEP 7B */ {
+ {
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 7A */ {
+p,
+li {
   line-height: 1.5;
 }
 
@@ -32,7 +33,7 @@ abbr [title] {
 
 /* (Structural) Type Selectors */
 
-/* STEP 6B */ {
+nav a {
   color: rgb(69,105,159); /* blue */
 }
 
@@ -78,7 +79,7 @@ footer > #top{
   font-size: 22px;
 }
 
-/* STEP 5B */ {
+.highlight {
   font-weight: bold;
   color: rgb(69,105,159); /* blue */
 }
