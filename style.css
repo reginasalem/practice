@@ -26,7 +26,7 @@ abbr [title] {
   text-decoration-style: wavy;
 }
 
-time [datetime] {
+# introduction + time {
   font-style: italic;
   color: rgb(69,105,159); /* blue */
 }
