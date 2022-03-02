@@ -3,7 +3,7 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
-/* Step 12 */ {
+a:hover {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
@@ -44,7 +44,7 @@ section {
   background-color: rgba(231,209,75,0.15); /* lt yellow */
 }
 
-/* STEP 10B */ {
+aside > p {
   font-style: italic;
 }
 
@@ -72,11 +72,17 @@ footer > #top{
 
 /* class Selectors */
 
+/* 5A
 .first {
   font-weight: bold;
+} */
+
+/* 14 EXTRA */
+h2 + p, h3 + p {
+font-weight: bold;
 }
 
-/* STEP 13 */ {
+.first::first-letter {
   font-size: 22px;
 }
 
