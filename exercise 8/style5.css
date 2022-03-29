@@ -1,0 +1,20 @@
+figure{
+  background-color: rgbaa(180,49,36,0.5);
+
+  border-bottom: 5px solid #222;
+  border: 1px solid #222;
+
+  max-width: 350px;
+  height: 300px;
+
+  padding: 25px;
+}
+
+head{
+  font-family: "Gugi", Google Fonts;
+  padding-left: 50px;
+}
+
+figcaption{
+  font-family: "Shadows Into Light", Google Fonts;
+}
