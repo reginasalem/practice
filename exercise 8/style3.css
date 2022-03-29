@@ -1,0 +1,16 @@
+#box {
+  background-color: rgbaa(180,49,36,0.5);
+  padding-left: 50px;
+  padding-right: 50px;
+
+  border-bottom: 5px solid #222;
+  border: 1px dashed #222;
+
+  max-width: 300px;
+  height: 100px;
+  overflow: hidden;
+
+  margin-top: 50px;
+  margin-left: 50px;
+
+}
