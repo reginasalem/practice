@@ -5,6 +5,7 @@ body {
 
 section {
   background-color: #ddd;
+  padding: 5px;
 }
 
 main {
@@ -13,7 +14,11 @@ main {
  grid-gap: 20px;
 }
 
-#c {
+#c{
   grid-column: 3fr;
   grid-row: 1fr 3fr;
+}
+
+#d{
+  grid-column: 1fr 2fr;
 }
