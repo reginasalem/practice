@@ -5,10 +5,16 @@ body {
 
 section {
   background-color: #ddd;
+  padding: 10px;
 }
 
 main {
  display: grid;
- grid-template-columns: 450px 450px;
+ grid-template-columns: 1fr 1fr;
  grid-gap: 20px;
+
+ padding: 30px;
+
+ max-width: 960px;
+ height: 200px;
 }
