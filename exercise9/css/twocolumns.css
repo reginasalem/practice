@@ -5,15 +5,26 @@ body {
 
 section {
   background-color: #ddd;
-  padding: 8px;
 }
 
 main {
- display: grid;
- grid-template-columns: 1fr 1fr;
- grid-gap: 20px;
+  display: grid;
+  /* grid-template-columns: 450px 450px; */
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  /* centers main */
+  max-width: 960px;
+  margin: 0 auto;
+}
 
- max-width: 960px;
+section {
+  padding: 20px;
+}
 
- margin: 50px;
+h2 {
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 0;
 }
